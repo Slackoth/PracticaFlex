@@ -3,4 +3,4 @@ Ejercicio de clase
 # Colaboradores 
 Luis Calderon
 Luis Garcia
-Rene Melendez
+Rene Melendez 00174118
