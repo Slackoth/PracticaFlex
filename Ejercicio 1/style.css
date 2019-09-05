@@ -1,0 +1,33 @@
+
+header {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    background-color: rgb(64, 230, 64);  
+    align-items: center;
+}
+body {
+    display: grid;
+    grid-gap: 10px;
+  /*grid-template-columns: fit-content(100%);*/
+}
+
+div {
+    display: flex;
+    background-color: blue;
+    justify-content: space-around;
+}
+footer{
+    display: flex;
+    background-color: rgb(64, 230, 64);  
+    justify-content: space-around;
+    align-items: center;
+    text-align: center
+}
+
+.footer-section {
+    height:auto;
+}
+.div-section {
+    height: auto;
+}
